@@ -1,7 +1,6 @@
 ### Hi there 👋
 [![Yoran's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodingLink)](https://github.com/anuraghazra/github-readme-stats)
-![Metrics](https://metrics.lecoq.io/CodingLink?template=classic&config.timezone=Asia%2FHong_Kong)
-![Yoran's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=CodingLink&layout=compact&hide_border=true&langs_count=10)
+![Metrics](https://metrics.lecoq.io/CodingLink?template=classic&config.timezone=Asia%2FHong_Kong)![Yoran's Most used languages](https://github-readme-stats.vercel.app/api/top-langs?username=CodingLink&layout=compact&hide_border=true&langs_count=10)
 <!--
 **CodingLink/CodingLink** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
