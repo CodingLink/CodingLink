@@ -4,7 +4,7 @@
 ⚡ 平时爱好NS平台游戏和钻研代码  
 📫 可以在[个人博客](https://www.codinglink.tech) 和 [bilibili](https://space.bilibili.com/8807831) 找到我  
 
-[![Yrian's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodingLink)](https://github.com/anuraghazra/github-readme-stats)
+[![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodingLink)](https://github.com/anuraghazra/github-readme-stats)
 <!-- 
 **CodingLink/CodingLink** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
