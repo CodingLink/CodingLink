@@ -1,4 +1,4 @@
-### Hi there! I'm [Yrian] 👋
+### Hi there! I'm [Ryan] 👋
 
 - 🔥 I’m currently working on Java development and IoT projects for maritime transportation systems.
 - 🌱 I’m currently learning about real-time data analytics and optimization for maritime logistics, using tools like Python and MATLAB.
