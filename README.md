@@ -1,8 +1,12 @@
-### Hi there 👋
-🔭 网络工程专业本科在读  
-🌱 今年正在备战23考研[忙碌]  
-⚡ 平时爱好NS平台游戏和钻研代码  
-📫 可以在[个人博客](https://www.codinglink.tech) 和 [bilibili](https://space.bilibili.com/8807831) 找到我  
+### Hi there! I'm Ryan 👋
+
+- 🔥 I’m currently working on Java development and IoT projects for maritime transportation systems.
+- 🌱 I’m currently learning about real-time data analytics and optimization for maritime logistics, using tools like Python and MATLAB.
+- 🤔  I’m looking for help with computer vision and small object detection projects.
+- 💬 Ask me about my journey as a software development newbie, maritime transportation, or data-driven logistics.
+- ⚡ Fun fact: I love exploring how maritime and IT worlds intersect, and I’m always curious about new technologies that can make shipping more efficient and eco-friendly!
+- 🚀 Development Focus: Java development.
+- 🎉 Personal Interests: Watching anime, playing Nintendo Switch games.
 
 [![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=CodingLink)](https://github.com/anuraghazra/github-readme-stats)
 <!-- 
